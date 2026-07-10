@@ -1,1 +1,1 @@
-# landing_page
+This project concludes the learning of html,css and flexbox of the ODIN PROJECT ! 
