@@ -169,3 +169,58 @@ body{
 }
 
 /* b4 */
+
+.b4{
+    padding:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.blue-box{
+    display:flex;
+    gap:30px;
+    background-color: #3882F6;
+    max-width: fit-content;
+    border-radius:15px;
+    justify-self:center;
+    padding:20px;
+    padding-left:60px;
+    padding-right:60px;
+}
+
+.b4-txts{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    color:white;
+    font-family: 'Roboto';
+}
+
+.b4-big-txt{
+    font-size:large;
+    font-weight: 700;
+}
+
+.Sign-up-button2{
+    padding:10px;
+}
+
+.b4-btn{
+    padding:8px;
+    border:2px solid white;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color:white;
+}
+
+
+/* B5 */
+
+.b5{
+    background-color: #1F2937;
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    color:white;
+    padding:20px;
+}
